@@ -18,6 +18,7 @@ By utilizing the **Iowa State Liquor Sales dataset (2025)**, this project transi
 - **Source:** [Data.gov - Iowa Liquor Sales](https://catalog.data.gov/dataset/iowa-liquor-sales-2025?from_hint=eyJxIjoiaW93YSBsaXF1b3Igc2FsZXMifQ%3D%3D)
 - **Size:** ~769,495 sales records
 - **Description:** Real-world government administrative data tracking wholesale liquor purchases by retailers across the state of Iowa, including geographic, categorical, and financial metrics.
+- **Important Note on Running the Project:** Due to GitHub's file size limits, the raw data is provided in a compressed file named `IOWA_Liquor_Sales.zip`. **Please extract this zip file to access the underlying `.csv` dataset before running the Jupyter Notebook.**
 
 ## 🛠️ Technologies Used
 
